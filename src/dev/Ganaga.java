@@ -4,9 +4,9 @@ public class Ganaga {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("ashdhsakfs");
+System.out.println("holiday");
 
-System.out.println("fevendra");
+System.out.println("holiday");
 
 	}
 }
